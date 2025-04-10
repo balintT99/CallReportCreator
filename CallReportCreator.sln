@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallReportCreator", "CallReportCreator\CallReportCreator.csproj", "{24D9BCAE-C19A-4DE8-B0B5-7200D5E98257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D9BCAE-C19A-4DE8-B0B5-7200D5E98257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D9BCAE-C19A-4DE8-B0B5-7200D5E98257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D9BCAE-C19A-4DE8-B0B5-7200D5E98257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D9BCAE-C19A-4DE8-B0B5-7200D5E98257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0C27D5-6AA6-4F3C-B8EE-C8A85179FBF9}
+	EndGlobalSection
+EndGlobal

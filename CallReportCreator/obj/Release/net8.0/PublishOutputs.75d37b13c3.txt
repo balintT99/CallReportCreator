@@ -1,0 +1,10 @@
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\ErrorLogs\error.txt
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\Output\output.txt
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\Source\area.txt
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\Source\country.txt
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\Source\input.txt
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\CallReportCreator.exe
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\CallReportCreator.dll
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\CallReportCreator.deps.json
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\CallReportCreator.runtimeconfig.json
+C:\Users\btoth\source\repos\CallReportCreator\CallReportCreator\bin\Release\net8.0\publish\CallReportCreator.pdb

@@ -1,0 +1,4 @@
+36	Magyarország
+44	Anglia
+43	Ausztria
+1	USA

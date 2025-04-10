@@ -1,0 +1,10 @@
+Anglia	London (belsõ)	44	207	53
+Anglia	Cardiff	44	29	3
+Magyarország	T-Mobile (mobil operátor)	36	30	0
+Magyarország	Budapest	36	1	3
+Magyarország	Pest megye	36	24	0
+Magyarország	Pannon (mobil operátor)	36	20	0
+Magyarország	Vodafone (mobil operátor)	36	70	31
+Ausztria	Bécs	43	1	8
+Ausztria	Salzburg	43	662	18
+USA	Delaware állam (minden város)	1	302	4

@@ -1,0 +1,10 @@
+44	207	London (belsõ)
+44	29	Cardiff
+36	30	T-Mobile (mobil operátor)
+36	1	Budapest
+36	24	Pest megye
+36	20	Pannon (mobil operátor)
+36	70	Vodafone (mobil operátor)
+43	1	Bécs
+43	662	Salzburg
+1	302	Delaware állam (minden város)
